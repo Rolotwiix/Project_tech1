@@ -1,0 +1,14 @@
+/*
+** my.h for my.h in /home/naji_m/rendu/TEST/42sh
+** 
+** Made by naji moncef
+** Login   <naji_m@epitech.net>
+** 
+** Started on  Thu May 21 15:54:12 2015 naji moncef
+** Last update Thu May 21 15:55:00 2015 naji moncef
+*/
+
+#ifndef MY_H_
+# define MY_H_
+
+# endif /* !MY_H_ */

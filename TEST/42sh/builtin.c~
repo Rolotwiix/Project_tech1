@@ -1,0 +1,16 @@
+/*
+** builtin.c for builtin in /home/naji_m/rendu/TEST/42sh
+** 
+** Made by naji moncef
+** Login   <naji_m@epitech.net>
+** 
+** Started on  Mon May 11 14:12:50 2015 naji moncef
+** Last update Mon May 11 14:23:17 2015 naji moncef
+*/
+#include <string.h>
+
+int	check_bultin(char *str)
+{
+  if (strcmp("exit", str) == 1)
+    return (1);
+}
